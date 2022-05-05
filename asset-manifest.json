@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sinhuc/static/css/main.8cf3f3ef.css",
+    "main.js": "/sinhuc/static/js/main.7b7d54ed.js",
+    "static/media/image2.png": "/sinhuc/static/media/image2.22292cd902fec103eccd.png",
+    "static/media/image1.png": "/sinhuc/static/media/image1.a144a3e77124c5d811ab.png",
+    "static/media/people4.png": "/sinhuc/static/media/people4.fd4f56bbf8bd6465c895.png",
+    "static/media/people1.png": "/sinhuc/static/media/people1.115a798e4ccd695f3174.png",
+    "static/media/people5.png": "/sinhuc/static/media/people5.38b1ee4005cee6b41c2c.png",
+    "static/media/people3.png": "/sinhuc/static/media/people3.b283a36d65cd5d10adb7.png",
+    "static/media/people2.png": "/sinhuc/static/media/people2.23d7ca378f07754f8a16.png",
+    "index.html": "/sinhuc/index.html",
+    "main.8cf3f3ef.css.map": "/sinhuc/static/css/main.8cf3f3ef.css.map",
+    "main.7b7d54ed.js.map": "/sinhuc/static/js/main.7b7d54ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cf3f3ef.css",
+    "static/js/main.7b7d54ed.js"
+  ]
+}
